@@ -29,3 +29,4 @@ The CSS styling enhances the overall appearance of the website. It uses a gradie
 Overall, this project demonstrates how HTML and CSS can be combined to create a professional portfolio website. It helps learners understand web page structuring, styling techniques, navigation design, and user interface development. This type of project is very useful for students because it not only improves coding skills but also helps them present their abilities in a professional way. It also serves as a strong foundation for building more advanced portfolios that include animations, responsive frameworks, backend integration, and interactive features in the future.
 
 *OUTPUT*:
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/ec8cec8d-8631-4c97-91f3-2be2c5bc946d" />
