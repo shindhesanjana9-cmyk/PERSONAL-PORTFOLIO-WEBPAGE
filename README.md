@@ -9,7 +9,7 @@
 *DURATION*: 4 WEEKS
 
 *MENTOR*: NEELA SANTOSH
-
+ 
 *DESCRIPTION*: This task presents the design and development of a **Developer Portfolio Website** using HTML and CSS. The main goal of this project is to create a personal online platform where a developer can showcase their skills, projects, background, and contact information in a clean, attractive, and organized manner. Portfolio websites are very important for students and professionals because they act as a digital resume that helps employers, clients, or recruiters understand a person’s abilities, creativity, and experience.
 
 The HTML portion of the code builds the structure of the webpage. It organizes the content into different meaningful sections such as the navigation bar, hero section, about section, skills section, projects section, contact details, and footer. Each part is clearly separated using semantic tags like header, section, and footer. This improves readability and makes the website easier to manage and update. The navigation bar at the top contains links that allow users to quickly move between different sections of the page, improving the overall user experience.
